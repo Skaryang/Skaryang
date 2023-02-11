@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skaryang
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me yangskitskarma@gmail.com
 
